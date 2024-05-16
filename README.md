@@ -1,6 +1,6 @@
-*Various resources*
+<h1>Various resources</h1>h1>
 
-ATTACK SURFACE MONITORING
+**ATTACK SURFACE MONITORING**
 
 Dnsdumpster <br>
 https://dnsdumpster.com/ <br>
@@ -20,7 +20,7 @@ ProjectDiscovery – Subfinder <br>
 https://github.com/projectdiscovery/subfinder <br>
 <br>
 <br>
-RSS READERS & ALERTS
+**RSS READERS & ALERTS**
 
 Inoreader <br>
 https://www.inoreader.com/ <br>
@@ -35,10 +35,10 @@ https://www.google.com/alerts <br>
 
 <br>
 <br>
-SECURITY RESEARCHERS & WEBSITES
+**SECURITY RESEARCHERS & WEBSITES**
 
 Kevin Beaumont - Mastodon <br>
-\@GossiTheDog@cyberplace.social <br>
+<p>@GossiTheDog@cyberplace.social<br>
 
 Joseph Cox - Mastodon <br>
 @josephcox@infosec.exchange <br>

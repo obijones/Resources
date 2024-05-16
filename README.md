@@ -6,10 +6,10 @@ Dnsdumpster
 https://dnsdumpster.com/
 https://dnsdumpster.com/footprinting-reconnaissance/
 
-Shodan
-https://shodan.io/
-https://www.shodan.io/search/examples
-https://www.sans.org/blog/getting-the-most-out-of-shodan-searches/
+Shodan<br>
+https://shodan.io/ <br>
+https://www.shodan.io/search/examples <br>
+https://www.sans.org/blog/getting-the-most-out-of-shodan-searches/ <br>
 
 Censys
 https://censys.com/

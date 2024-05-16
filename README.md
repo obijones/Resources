@@ -19,6 +19,7 @@ https://support.censys.io/hc/en-us/categories/4405770552724-Censys-Search <br>
 ProjectDiscovery – Subfinder <br>
 https://github.com/projectdiscovery/subfinder <br>
 <br>
+<br>
 
 **RSS READERS & ALERTS**
 
@@ -32,6 +33,7 @@ https://docs.feedly.com/ <br>
 
 Google Alerts <br>
 https://www.google.com/alerts <br>
+<br>
 <br>
 
 **SECURITY RESEARCHERS & WEBSITES**

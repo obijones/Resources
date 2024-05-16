@@ -1,4 +1,4 @@
-Various resources
+*Various resources*
 
 ATTACK SURFACE MONITORING
 
@@ -26,6 +26,7 @@ Feedly - https://feedly.com/
 https://docs.feedly.com/
 
 Google Alerts - https://www.google.com/alerts
+
 <br>
 <br>
 SECURITY RESEARCHERS & WEBSITES

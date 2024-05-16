@@ -18,8 +18,8 @@ https://support.censys.io/hc/en-us/categories/4405770552724-Censys-Search <br>
 
 ProjectDiscovery – Subfinder <br>
 https://github.com/projectdiscovery/subfinder <br>
-<br>
-<br>
+
+
 **RSS READERS & ALERTS**
 
 Inoreader <br>
@@ -33,15 +33,12 @@ https://docs.feedly.com/ <br>
 Google Alerts <br>
 https://www.google.com/alerts <br>
 
-<br>
-<br>
+
 **SECURITY RESEARCHERS & WEBSITES**
 
-Kevin Beaumont - Mastodon
-<p> @GossiTheDog@cyberplace.social <br>
+<p>Kevin Beaumont - Mastodon - @GossiTheDog@cyberplace.social <br>
 
-Joseph Cox - Mastodon
-<p> @josephcox@infosec.exchange <br>
+<p> Joseph Cox - Mastodon - @josephcox@infosec.exchange <br>
 
 Will Dorman - Mastodon <br>
 @wdorman@infosec.exchange <br>

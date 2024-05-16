@@ -2,42 +2,44 @@
 
 ATTACK SURFACE MONITORING
 
-Dnsdumpster
-https://dnsdumpster.com/
-https://dnsdumpster.com/footprinting-reconnaissance/
+Dnsdumpster <br>
+https://dnsdumpster.com/ <br>
+https://dnsdumpster.com/footprinting-reconnaissance/ <br>
 
 Shodan<br>
 https://shodan.io/ <br>
 https://www.shodan.io/search/examples <br>
 https://www.sans.org/blog/getting-the-most-out-of-shodan-searches/ <br>
 
-Censys
-https://censys.com/
-https://search.censys.io/search/getting-started
-https://support.censys.io/hc/en-us/categories/4405770552724-Censys-Search
+Censys <br>
+https://censys.com/ <br>
+https://search.censys.io/search/getting-started <br>
+https://support.censys.io/hc/en-us/categories/4405770552724-Censys-Search <br>
 
-ProjectDiscovery – Subfinder - https://github.com/projectdiscovery/subfinder
-
+ProjectDiscovery – Subfinder <br>
+https://github.com/projectdiscovery/subfinder <br>
 <br>
 <br>
 RSS READERS & ALERTS
 
-Inoreader - https://www.inoreader.com/
-https://www.inoreader.com/blog/category/how-to
+Inoreader - https://www.inoreader.com/ <br>
+https://www.inoreader.com/blog/category/how-to <br>
 
-Feedly - https://feedly.com/
-https://docs.feedly.com/
+Feedly <br>
+https://feedly.com/ <br>
+https://docs.feedly.com/ <br>
 
-Google Alerts - https://www.google.com/alerts
+Google Alerts <br>
+https://www.google.com/alerts <br>
 
 <br>
 <br>
 SECURITY RESEARCHERS & WEBSITES
 
-Kevin Beaumont - Mastodon @GossiTheDog@cyberplace.social
-Joseph Cox - Mastodon @josephcox@infosec.exchange
-Will Dorman - Mastodon @wdorman@infosec.exchange
-Not Simon - Mastodon @simontsui@infosec.exchange
-Volexity - Mastodon @volexity@infosec.exchange
-Shodan – Mastodon @shodan@mastodon.shodan.io
-Ransomlook – mastodon @ransomlook@social.circl.lu
+Kevin Beaumont - Mastodon @GossiTheDog@cyberplace.social <br>
+Joseph Cox - Mastodon @josephcox@infosec.exchange <br>
+Will Dorman - Mastodon @wdorman@infosec.exchange <br>
+Not Simon - Mastodon @simontsui@infosec.exchange <br>
+Volexity - Mastodon @volexity@infosec.exchange <br>
+Shodan – Mastodon @shodan@mastodon.shodan.io <br>
+Ransomlook – mastodon @ransomlook@social.circl.lu <br>

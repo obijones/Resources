@@ -17,6 +17,7 @@ ProjectDiscovery – Subfinder - https://github.com/projectdiscovery/subfinder
 
 
 RSS READERS & ALERTS
+
 Inoreader - https://www.inoreader.com/
 https://www.inoreader.com/blog/category/how-to
 
@@ -27,6 +28,7 @@ Google Alerts - https://www.google.com/alerts
 
 
 SECURITY RESEARCHERS & WEBSITES
+
 Kevin Beaumont - Mastodon @GossiTheDog@cyberplace.social
 Joseph Cox - Mastodon @josephcox@infosec.exchange
 Will Dorman - Mastodon @wdorman@infosec.exchange

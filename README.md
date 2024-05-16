@@ -18,7 +18,7 @@ https://support.censys.io/hc/en-us/categories/4405770552724-Censys-Search <br>
 
 ProjectDiscovery – Subfinder <br>
 https://github.com/projectdiscovery/subfinder <br>
-
+<br>
 
 **RSS READERS & ALERTS**
 
@@ -32,7 +32,7 @@ https://docs.feedly.com/ <br>
 
 Google Alerts <br>
 https://www.google.com/alerts <br>
-
+<br>
 
 **SECURITY RESEARCHERS & WEBSITES**
 
@@ -40,17 +40,12 @@ https://www.google.com/alerts <br>
 
 <p> Joseph Cox - Mastodon - @josephcox@infosec.exchange <br>
 
-Will Dorman - Mastodon <br>
-@wdorman@infosec.exchange <br>
+<p> Will Dorman - Mastodon - @wdorman@infosec.exchange <br>
 
-Not Simon - Mastodon <br>
-@simontsui@infosec.exchange <br>
+<p> Not Simon - Mastodon - @simontsui@infosec.exchange <br>
 
-Volexity - Mastodon <br>
-@volexity@infosec.exchange <br>
+<p> Volexity - Mastodon - @volexity@infosec.exchange <br>
 
-Shodan – Mastodon <br>
-@shodan@mastodon.shodan.io <br>
+<p> Shodan – Mastodon - @shodan@mastodon.shodan.io <br>
 
-Ransomlook – mastodon <br>
-@ransomlook@social.circl.lu <br>
+<p> Ransomlook – Mastodon - @ransomlook@social.circl.lu <br>

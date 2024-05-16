@@ -1,4 +1,4 @@
-<h1>Various resources</h1>h1>
+<h1>Various resources</h1>
 
 **ATTACK SURFACE MONITORING**
 
@@ -6,7 +6,7 @@ Dnsdumpster <br>
 https://dnsdumpster.com/ <br>
 https://dnsdumpster.com/footprinting-reconnaissance/ <br>
 
-Shodan<br>
+Shodan <br>
 https://shodan.io/ <br>
 https://www.shodan.io/search/examples <br>
 https://www.sans.org/blog/getting-the-most-out-of-shodan-searches/ <br>
@@ -37,11 +37,11 @@ https://www.google.com/alerts <br>
 <br>
 **SECURITY RESEARCHERS & WEBSITES**
 
-Kevin Beaumont - Mastodon <br>
-<p>@GossiTheDog@cyberplace.social<br>
+Kevin Beaumont - Mastodon
+<p> @GossiTheDog@cyberplace.social <br>
 
-Joseph Cox - Mastodon <br>
-@josephcox@infosec.exchange <br>
+Joseph Cox - Mastodon
+<p> @josephcox@infosec.exchange <br>
 
 Will Dorman - Mastodon <br>
 @wdorman@infosec.exchange <br>

@@ -2,14 +2,17 @@
 
 ATTACK SURFACE MONITORING
 
-Dnsdumpster - https://dnsdumpster.com/
+Dnsdumpster
+https://dnsdumpster.com/
 https://dnsdumpster.com/footprinting-reconnaissance/
 
-Shodan - https://shodan.io/
+Shodan
+https://shodan.io/
 https://www.shodan.io/search/examples
 https://www.sans.org/blog/getting-the-most-out-of-shodan-searches/
 
-Censys - https://censys.com/
+Censys
+https://censys.com/
 https://search.censys.io/search/getting-started
 https://support.censys.io/hc/en-us/categories/4405770552724-Censys-Search
 

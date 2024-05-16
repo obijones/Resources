@@ -22,7 +22,8 @@ https://github.com/projectdiscovery/subfinder <br>
 <br>
 RSS READERS & ALERTS
 
-Inoreader - https://www.inoreader.com/ <br>
+Inoreader <br>
+https://www.inoreader.com/ <br>
 https://www.inoreader.com/blog/category/how-to <br>
 
 Feedly <br>
@@ -36,10 +37,23 @@ https://www.google.com/alerts <br>
 <br>
 SECURITY RESEARCHERS & WEBSITES
 
-Kevin Beaumont - Mastodon @GossiTheDog@cyberplace.social <br>
-Joseph Cox - Mastodon @josephcox@infosec.exchange <br>
-Will Dorman - Mastodon @wdorman@infosec.exchange <br>
-Not Simon - Mastodon @simontsui@infosec.exchange <br>
-Volexity - Mastodon @volexity@infosec.exchange <br>
-Shodan – Mastodon @shodan@mastodon.shodan.io <br>
-Ransomlook – mastodon @ransomlook@social.circl.lu <br>
+Kevin Beaumont - Mastodon <br>
+@GossiTheDog@cyberplace.social <br>
+
+Joseph Cox - Mastodon <br>
+@josephcox@infosec.exchange <br>
+
+Will Dorman - Mastodon <br>
+@wdorman@infosec.exchange <br>
+
+Not Simon - Mastodon <br>
+@simontsui@infosec.exchange <br>
+
+Volexity - Mastodon <br>
+@volexity@infosec.exchange <br>
+
+Shodan – Mastodon <br>
+@shodan@mastodon.shodan.io <br>
+
+Ransomlook – mastodon <br>
+@ransomlook@social.circl.lu <br>

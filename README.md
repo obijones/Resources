@@ -38,7 +38,7 @@ https://www.google.com/alerts <br>
 SECURITY RESEARCHERS & WEBSITES
 
 Kevin Beaumont - Mastodon <br>
-"@GossiTheDog@cyberplace.social" <br>
+\@GossiTheDog@cyberplace.social <br>
 
 Joseph Cox - Mastodon <br>
 @josephcox@infosec.exchange <br>

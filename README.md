@@ -51,11 +51,19 @@ https://www.google.com/alerts <br>
 <p> Shodan – Mastodon - @shodan@mastodon.shodan.io <br>
 
 <p> Ransomlook – Mastodon - @ransomlook@social.circl.lu <br>
-
+<br>
+<br>
 
 **DNS Twist**
 <p> https://dnstwist.it/ <br>
 <p>https://github.com/elceef/dnstwist <br>
 
+<br>
+<br>
 **Silent Push**
 <p> https://www.silentpush.com/community-edition/ </p> <br>
+<br>
+<br>
+**Malvertising**
+https://github.com/rmceoin/gmalvertising
+

@@ -57,15 +57,12 @@ https://www.google.com/alerts <br>
 **DNS Twist**
 <p> https://dnstwist.it/ <br>
 <p>https://github.com/elceef/dnstwist <br>
-
 <br>
 <br>
-
 **SILENT PUSH**
 <p> https://www.silentpush.com/community-edition/ </p> <br>
 <br>
-<br>1
-
+<br>
 **MALVERTISING**
 https://github.com/rmceoin/gmalvertising
 

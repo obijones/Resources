@@ -67,6 +67,8 @@ https://www.google.com/alerts <br>
 **MALVERTISING** <br>
 https://github.com/rmceoin/gmalvertising
 <br>
+
+
 **FAVICON WORKFLOW** <br>
 1. Search for organization in Shodan.
 2. Select item that have favicon shown on title.

@@ -66,4 +66,11 @@ https://www.google.com/alerts <br>
 
 **MALVERTISING** <br>
 https://github.com/rmceoin/gmalvertising
+<br>
+**FAVICON WORKFLOW** <br>
+1. Search for organization in Shodan.
+2. Select item that have favicon shown on title.
+3. Remove organization search query and see what other hosts pop-up.
 
+1. Use DNStwist to get registered typoquatted domains.
+2. Use httpx with necessary options to search DNStwist list and output favicons.
